@@ -22,5 +22,23 @@
 </div>
 
 <div align="center">
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+ <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- React -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        </a>
+        <!-- NextJS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
+                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        </a>
+        <!-- TailwindCSS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
+                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>
 </div>
